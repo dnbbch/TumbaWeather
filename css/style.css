@@ -6,7 +6,7 @@
 body {
   font-family: "Victor Mono", monospace;
   position: relative;
-  padding: 20px;
+  overscroll-behavior: none;
 }
 
 body::before {
@@ -39,6 +39,10 @@ body::before {
   --dark-color: #3f5957;
   --light-color: #d6dbd8;
   --primary-color: #acf2eb;
+}
+
+#smooth-content {
+  padding: 20px 20px 20px;
 }
 
 /*Стили для header*/
