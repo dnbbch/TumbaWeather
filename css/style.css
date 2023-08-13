@@ -49,6 +49,25 @@ body::before {
   padding: 20px;
 }
 
+/* Стили для scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(100, 135, 129);
+  background: linear-gradient(
+    90deg,
+    rgba(100, 135, 129, 1) 0%,
+    rgba(32, 47, 50, 1) 100%
+  );
+  background-size: 150%;
+}
+
 /*Стили для header*/
 .header {
   border-radius: 4px;
@@ -233,6 +252,7 @@ body::before {
 .section__button:hover {
   background-position: 90%;
   cursor: pointer;
+  border: 1.5px solid var(--primary-color);
 }
 
 .section__information {
