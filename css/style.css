@@ -32,7 +32,7 @@ body::before {
 @keyframes flicker {
   0%,
   100% {
-    filter: brightness(1); /* Начальная и конечная яркость */
+    filter: brightness(0.9); /* Начальная и конечная яркость */
   }
   50% {
     filter: brightness(0.6); /* Яркость в пике мерцания */
@@ -47,6 +47,7 @@ body::before {
 
 #smooth-content {
   padding: 20px;
+  will-change: transform;
 }
 
 /* Стили для scrollbar */
