@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "bCEApC0jLXTFrJ9gMZd+Xnflur4fIJsjXzCQlUWGXWU=",
+  "Source": "TumbaWeather",
+  "BasePath": "_content/TumbaWeather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TumbaWeather\\wwwroot",
+      "Source": "TumbaWeather",
+      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "BasePath": "_content/TumbaWeather",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
+      "SourceId": "TumbaWeather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "BasePath": "_content/TumbaWeather",
+      "RelativePath": "fonts/VictorMono-Bold.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\VictorMono-Bold.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
+      "SourceId": "TumbaWeather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "BasePath": "_content/TumbaWeather",
+      "RelativePath": "fonts/VictorMono-Light.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\VictorMono-Light.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
+      "SourceId": "TumbaWeather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "BasePath": "_content/TumbaWeather",
+      "RelativePath": "fonts/VictorMono-Medium.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\VictorMono-Medium.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\js\\time.js",
+      "SourceId": "TumbaWeather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "BasePath": "_content/TumbaWeather",
+      "RelativePath": "js/time.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\time.js"
+    }
+  ]
+}

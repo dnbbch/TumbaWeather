@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\default.css" />
+    <Content Remove="wwwroot\css\style.css" />
+    <Content Remove="wwwroot\default.css" />
+    <Content Remove="wwwroot\img\chris-nguyen-lbmrrNgq2lo-unsplash.jpg" />
+    <Content Remove="wwwroot\img\jessica-irani-6UvQTVjCoDA-unsplash.jpg" />
+    <Content Remove="wwwroot\img\mosi-knife--PVgDgKXgZA-unsplash.jpg" />
+    <Content Remove="wwwroot\img\valentin-muller-bWtd1ZyEy6w-unsplash.jpg" />
+    <Content Remove="wwwroot\index.css" />
+    <Content Remove="wwwroot\index.html" />
+    <Content Remove="wwwroot\js\app.js" />
+    <Content Remove="wwwroot\js\gsap.js" />
+    <Content Remove="wwwroot\libs\gsap\gsap.min.js" />
+    <Content Remove="wwwroot\libs\gsap\ScrollSmoother.min.js" />
+    <Content Remove="wwwroot\libs\gsap\ScrollTrigger.min.js" />
+    <Content Remove="wwwroot\README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\default.css" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\img\chris-nguyen-lbmrrNgq2lo-unsplash.jpg" />
+    <None Include="wwwroot\img\jessica-irani-6UvQTVjCoDA-unsplash.jpg" />
+    <None Include="wwwroot\img\mosi-knife--PVgDgKXgZA-unsplash.jpg" />
+    <None Include="wwwroot\img\valentin-muller-bWtd1ZyEy6w-unsplash.jpg" />
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\js\app.js" />
+    <None Include="wwwroot\js\gsap.js" />
+    <None Include="wwwroot\libs\gsap\gsap.min.js" />
+    <None Include="wwwroot\libs\gsap\ScrollSmoother.min.js" />
+    <None Include="wwwroot\libs\gsap\ScrollTrigger.min.js" />
+    <None Include="wwwroot\README.md" />
+  </ItemGroup>
+
+</Project>
