@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+
+    <!-- Подключаем CSS файлы -->
+    <link rel="stylesheet" href="./css/default.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <!-- Подключаем иконки -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+
+    <!--Заголовок сайта-->
+    >
+    <title>TumbaWeatherTest</title>
+
+    <!-- Подключаем библиотеки gsap -->
+    <script src="./libs/gsap/gsap.min.js" defer></script>
+    <script src="./libs/gsap/ScrollSmoother.min.js" defer></script>
+    <script src="./libs/gsap/ScrollTrigger.min.js" defer></script>
+
+    <!-- Подключаем JavaScript файлы -->
+    <script src="./js/gsap.js" defer></script>
+    <script src="./js/time.js" defer></script>
+    <script src="./js/app.js" defer></script>
+  </head>
+  <body>
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <header class="header">
+          <span class="header__logo">TumbaWeatherTest</span>
+        </header>
+        <main class="main">
+          <aside class="aside">
+            <div class="aside__top">
+              <p class="aside__date">
+                <span id="current-time"></span>
+              </p>
+            </div>
+            <div class="aside__bottom">
+              <h1 class="aside__title" id="city-title"></h1>
+              <article class="article">
+                <div class="article__card">
+                  <p class="card__date">27.07</p>
+                  <span class="material-symbols-rounded card__img">
+                    rainy
+                  </span>
+                  <p class="card__temp">25ºC</p>
+                </div>
+                <div class="article__card">
+                  <p class="card__date">27.07</p>
+                  <span class="material-symbols-rounded card__img">
+                    rainy
+                  </span>
+                  <p class="card__temp">25ºC</p>
+                </div>
+                <div class="article__card">
+                  <p class="card__date">27.07</p>
+                  <span class="material-symbols-rounded card__img">
+                    rainy
+                  </span>
+                  <p class="card__temp">25ºC</p>
+                </div>
+                <div class="article__card">
+                  <p class="card__date">27.07</p>
+                  <span class="material-symbols-rounded card__img">
+                    rainy
+                  </span>
+                  <p class="card__temp">25ºC</p>
+                </div>
+                <div class="article__card">
+                  <p class="card__date">27.07</p>
+                  <span class="material-symbols-rounded card__img">
+                    rainy
+                  </span>
+                  <p class="card__temp">25ºC</p>
+                </div>
+              </article>
+            </div>
+          </aside>
+          <section class="section">
+            <input
+              id="cityNameId"
+              name="city_name"
+              class="section__bar"
+              type="text"
+              placeholder="Название города"
+            />
+            <input
+              id="sendButtonId"
+              class="section__button"
+              type="submit"
+              value="Узнать погоду"
+            />
+            <div class="section__information">
+              <span class="section__temperature">25ºC</span>
+              <span class="section__wind">Скорость ветра: 2 м/с</span>
+              <span class="section__maxt">Макс. t: 29ºC</span>
+              <span class="section__mint">Мин. t: 22ºC</span>
+            </div>
+          </section>
+        </main>
+        <footer class="footer">
+          <span class="footer__logo">TumbaWeatherTest</span>
+          <div class="footer__info">
+            <p class="info__text">«Работает на Open Source»</p>
+            <a
+              class="info__link"
+              href="https://github.com/dnbbch/tumba-weather"
+            >
+              Репозиторий проекта на GitHub
+            </a>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
