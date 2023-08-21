@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bCEApC0jLXTFrJ9gMZd+Xnflur4fIJsjXzCQlUWGXWU=",
+  "Hash": "R1ljjqr9ReB4QVUKLU2GkXW58qnbYLKuS+deLwyNhRc=",
   "Source": "TumbaWeather",
   "BasePath": "_content/TumbaWeather",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TumbaWeather\\wwwroot",
       "Source": "TumbaWeather",
-      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\",
       "BasePath": "_content/TumbaWeather",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
+      "Identity": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
       "SourceId": "TumbaWeather",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\",
       "BasePath": "_content/TumbaWeather",
       "RelativePath": "fonts/VictorMono-Bold.ttf",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\VictorMono-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
+      "Identity": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
       "SourceId": "TumbaWeather",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\",
       "BasePath": "_content/TumbaWeather",
       "RelativePath": "fonts/VictorMono-Light.ttf",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\VictorMono-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
+      "Identity": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
       "SourceId": "TumbaWeather",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\",
       "BasePath": "_content/TumbaWeather",
       "RelativePath": "fonts/VictorMono-Medium.ttf",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\VictorMono-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\js\\time.js",
+      "Identity": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\js\\time.js",
       "SourceId": "TumbaWeather",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\",
       "BasePath": "_content/TumbaWeather",
       "RelativePath": "js/time.js",
       "AssetKind": "All",

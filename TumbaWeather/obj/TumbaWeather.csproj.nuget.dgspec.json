@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj": {}
+    "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj": {
+    "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj",
+        "projectUniqueName": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj",
         "projectName": "TumbaWeather",
-        "projectPath": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj",
+        "projectPath": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\TumbaWeather.csproj",
         "packagesPath": "C:\\Users\\Даниил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\obj\\",
+        "outputPath": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Даниил\\AppData\\Roaming\\NuGet\\NuGet.Config",

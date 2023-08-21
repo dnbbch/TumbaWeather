@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\VictorMono-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\VictorMono-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\VictorMono-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Даниил\\Desktop\\tumba-weather\\TumbaWeather\\wwwroot\\js\\time.js",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\js\\time.js",
       "PackagePath": "staticwebassets\\js\\time.js"
     },
     {
