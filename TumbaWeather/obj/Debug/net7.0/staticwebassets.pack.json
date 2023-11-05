@@ -1,19 +1,171 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\VictorMono-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\VictorMono-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\fonts\\VictorMono-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\VictorMono-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Даниил\\MyProjects\\tumba-weather\\TumbaWeather\\wwwroot\\js\\time.js",
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\01d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\01d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\01n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\01n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\02d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\02d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\02n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\02n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\03d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\03d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\03n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\03n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\04d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\04d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\04n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\04n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\09d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\09d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\09n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\09n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\10d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\10d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\10n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\10n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\11d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\11d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\11n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\11n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\13d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\13d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\13n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\13n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\50d.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\50d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\fill\\50n.svg",
+      "PackagePath": "staticwebassets\\icons\\fill\\50n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\01d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\01d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\01n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\01n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\02d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\02d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\02n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\02n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\03d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\03d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\03n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\03n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\04d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\04d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\04n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\04n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\09d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\09d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\09n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\09n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\10d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\10d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\10n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\10n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\11d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\11d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\11n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\11n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\13d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\13d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\13n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\13n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\50d.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\50d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\icons\\line\\50n.svg",
+      "PackagePath": "staticwebassets\\icons\\line\\50n.svg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\img\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\img\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Даниил\\MyProjects\\TumbaWeather\\TumbaWeather\\wwwroot\\js\\time.js",
       "PackagePath": "staticwebassets\\js\\time.js"
     },
     {

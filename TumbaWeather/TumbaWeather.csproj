@@ -40,4 +40,8 @@
     <None Include="wwwroot\README.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\icons\" />
+  </ItemGroup>
+
 </Project>
